@@ -18,4 +18,4 @@ Passo 2: instalar pytorch(Stable (1.9.0)/Linux/Pip/Python/CUDA 10.2)
 pip3 install torch torchvision torchaudio
 ```
 
-![image-20210822132441305](C:\Users\alves\Documents\GitHub\how_to_update_docker_image\imagens\image-20210822132441305.png)
+![image-20210822132441305](https://github.com/niltonmalves/how_to_update_docker_image/blob/main/imagens/image-20210822132441305.png?raw=true)
