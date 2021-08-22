@@ -27,4 +27,4 @@ python -m pip install detectron2 -f \
   https://dl.fbaipublicfiles.com/detectron2/wheels/cu102/torch1.9/index.html
 ```
 
-![image-20210822132845552](C:\Users\alves\Documents\GitHub\how_to_update_docker_image\imagens\image-20210822132845552.png)
+![image-20210822132845552](https://github.com/niltonmalves/how_to_update_docker_image/blob/main/imagens/image-20210822132845552.png)
