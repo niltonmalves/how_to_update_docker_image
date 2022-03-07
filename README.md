@@ -35,6 +35,8 @@ python -m pip install detectron2 -f \
 
 Passo 4: Salvar as alterações feita na imagem. O Ideal é deixar a imagem rodando e abrir outra conexão e fazer o comit da imagem ativa, que foi alterada.
 
+** Atenção verificar a necessidade de fazer um stop container  antes de comitar, conforme informado nesse [link](https://stack.desenvolvedor.expert/appendix/docker/criandoimagem.html) **
+
 Para verificar o id da imagem, usar:
 
 ```bash
